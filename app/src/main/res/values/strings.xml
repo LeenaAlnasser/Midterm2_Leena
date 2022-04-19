@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Midterm2_Leena</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="id">ID:</string>
+    <string name="phone">Phone Number</string>
+    <string name="bttninsert">INSERT</string>
+    <string name="bttnSecondAct">Go To Second Activity</string>
+    <string name="bttnThirdAct">Go To Third Activity</string>
+</resources>
